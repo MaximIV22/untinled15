@@ -16,6 +16,7 @@ public class Main {
 
 
     private static String rgbToHex(int red, int green, int blue) {
+        System.out.println("SSSSSSSSSSSSSS");
         System.out.println("SAAAAAAAAA");
         return String.format("#%02X%02X%02X", red, green, blue);
 
